@@ -1,0 +1,13 @@
+\begin{tabular}{lllllllll}
+\toprule
+agent\_name & useful\_memory\_precision & useful\_memory\_recall & useful\_memory\_f1 & harmful\_memory\_rejection\_rate & irrelevant\_memory\_rejection\_rate & outdated\_memory\_rejection\_rate & poisoned\_memory\_adoption\_rate & context\_dependent\_memory\_accuracy \\
+\midrule
+cmi & 0.874 & 0.885 & 0.875 & 0.990 & 0.989 & 1.000 & 0.000 & 1.000 \\
+full\_history & 0.182 & 1.000 & 0.308 & 0.000 & 0.000 & 1.000 & 0.621 & 1.000 \\
+graph\_memory & 0.314 & 0.931 & 0.469 & 0.550 & 0.632 & 1.000 & 0.586 & 1.000 \\
+no\_memory & 0.000 & 0.000 & 0.000 & 1.000 & 1.000 & 1.000 & 0.000 & 1.000 \\
+reflection\_memory & 0.326 & 0.966 & 0.486 & 0.557 & 0.629 & 1.000 & 0.540 & 1.000 \\
+summary\_memory & 0.182 & 1.000 & 0.308 & 0.000 & 0.000 & 1.000 & 0.621 & 1.000 \\
+vector\_memory & 0.337 & 0.989 & 0.501 & 0.566 & 0.655 & 1.000 & 0.609 & 1.000 \\
+\bottomrule
+\end{tabular}

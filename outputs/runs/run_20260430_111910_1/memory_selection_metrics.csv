@@ -1,0 +1,7 @@
+agent_name,useful_memory_precision,useful_memory_recall,useful_memory_f1,harmful_memory_rejection_rate,irrelevant_memory_rejection_rate,outdated_memory_rejection_rate,poisoned_memory_adoption_rate,context_dependent_memory_accuracy
+cmi_batch,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+cmi_deterministic_scorer,0.55,0.55,0.55,1.0,1.0,1.0,0.0,1.0
+cmi_no_perturb,0.55,0.55,0.55,1.0,1.0,1.0,0.0,1.0
+cmi_oracle_scorer,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+cmi_stability_only,0.1,0.1,0.1,1.0,1.0,1.0,0.0,1.0
+cmi_utility_only,0.55,0.55,0.55,1.0,1.0,1.0,0.0,1.0

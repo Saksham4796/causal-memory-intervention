@@ -1,0 +1,25 @@
+main:
+  agents:
+    - no_memory
+    - full_history
+    - vector_memory
+    - summary_memory
+    - reflection_memory
+    - graph_memory
+    - cmi
+
+ablations:
+  cmi_variants:
+    - utility_only
+    - stability_only
+    - no_perturb
+    - oracle_scorer
+    - deterministic_scorer
+    - batch
+
+sensitivity:
+  top_k: [1, 3, 5, 8, 10]
+  utility_threshold: [-0.1, 0.0, 0.1, 0.2]
+  stability_threshold: [-0.1, 0.0, 0.1, 0.2]
+  poison_rate: [0.0, 0.1, 0.25, 0.5]
+  memory_bank_size: [5, 10, 20, 50]

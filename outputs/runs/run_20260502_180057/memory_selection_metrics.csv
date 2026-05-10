@@ -1,0 +1,8 @@
+agent_name,useful_memory_precision,useful_memory_recall,useful_memory_f1,harmful_memory_rejection_rate,irrelevant_memory_rejection_rate,outdated_memory_rejection_rate,poisoned_memory_adoption_rate,context_dependent_memory_accuracy
+cmi,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+full_history,0.175,1.0,0.2976190476190476,0.0,0.0,1.0,0.75,1.0
+graph_memory,0.3125,0.9375,0.46875,0.5625,0.671875,1.0,0.75,1.0
+no_memory,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+reflection_memory,0.3333333333333333,1.0,0.5,0.575,0.65625,1.0,0.625,1.0
+summary_memory,0.175,1.0,0.2976190476190476,0.0,0.0,1.0,0.75,1.0
+vector_memory,0.3333333333333333,1.0,0.5,0.575,0.6875,1.0,0.75,1.0

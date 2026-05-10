@@ -1,0 +1,16 @@
+openai
+python-dotenv
+pydantic
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+tqdm
+pyyaml
+tenacity
+pytest
+rich
+jsonlines
+networkx

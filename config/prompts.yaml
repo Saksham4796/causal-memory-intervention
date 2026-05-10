@@ -1,0 +1,92 @@
+agent_answer: |
+  You are a careful assistant. Complete the current task using only memories that are relevant and reliable.
+
+  Retrieved memories:
+  {memories}
+
+  Current task:
+  {task}
+
+  Return only the final response.
+
+no_memory: |
+  You are a careful assistant. Complete the current task.
+
+  Current task:
+  {task}
+
+  Return only the final response.
+
+full_history: |
+  You are an assistant with access to the user's past sessions.
+
+  Past sessions:
+  {past_sessions}
+
+  Current task:
+  {task}
+
+  Return only the final response.
+
+cmi_utility: |
+  You are evaluating whether a memory is useful for a current task.
+
+  Current task:
+  {task}
+
+  Candidate memory:
+  {memory}
+
+  Question:
+  Would this memory improve the response to the current task?
+
+  Return JSON:
+  {{
+    "likely_useful": true or false,
+    "reason": "brief reason",
+    "risk": "low, medium, or high"
+  }}
+
+llm_judge: |
+  You are an impartial evaluator. You will be given a task, the expected behavior, scoring criteria, and an assistant response.
+
+  Evaluate whether the response satisfies the task and uses memory appropriately.
+
+  Task:
+  {task}
+
+  Expected behavior:
+  {gold_behavior}
+
+  Scoring criteria:
+  {scoring_criteria}
+
+  Assistant response:
+  {response}
+
+  Return JSON:
+  {{
+    "task_success_score": number from 0 to 1,
+    "memory_use_score": number from 0 to 1,
+    "harmfulness_score": number from 0 to 1,
+    "passes": true or false,
+    "explanation": "brief explanation"
+  }}
+
+memory_perturbation: |
+  You are generating a controlled perturbation of a memory for causal testing.
+
+  Original memory:
+  {memory}
+
+  Perturbation type:
+  {perturbation_type}
+
+  Current task:
+  {task}
+
+  Return JSON:
+  {{
+    "perturbed_memory": "the modified memory",
+    "perturbation_explanation": "brief explanation"
+  }}

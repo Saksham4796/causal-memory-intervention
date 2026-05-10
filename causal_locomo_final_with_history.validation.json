@@ -1,0 +1,13 @@
+{
+  "input": "causal_locomo_final_with_history.jsonl",
+  "num_records": 87,
+  "num_valid": 87,
+  "num_errors": 0,
+  "errors": [],
+  "task_family_counts": {
+    "temporal_memory_qa": 46,
+    "inferential_memory_qa": 14,
+    "multi_evidence_memory_qa": 25,
+    "factual_memory_qa": 2
+  }
+}

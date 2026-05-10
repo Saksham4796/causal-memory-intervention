@@ -1,0 +1,853 @@
+{
+  "num_predictions": 140,
+  "total_cost_usd": 0.0,
+  "total_tokens": 20000,
+  "average_cost_usd": 0.0,
+  "tracker": {
+    "total_cost_usd": 0.0,
+    "total_tokens": 20000,
+    "num_records": 140,
+    "records": [
+      {
+        "agent_name": "no_memory",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 47
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 61
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 79
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 103
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 39
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 60
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 80
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 104
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 530
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 36
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 63
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 88
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 73
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 92
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 88
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 457
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 39
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 64
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 80
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 104
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 505
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 36
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 62
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 97
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 82
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 107
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 97
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 39
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 60
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 80
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 104
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 530
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 46
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 61
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 81
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 104
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 39
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 66
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 100
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 86
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 100
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 36
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 63
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 88
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 73
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 92
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 88
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 445
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 39
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 64
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 80
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 104
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 504
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 36
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 62
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 97
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 82
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 107
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 97
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 39
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 66
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 100
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 86
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 100
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 36
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 62
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 97
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 82
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 107
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 97
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 47
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 61
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 79
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 103
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 39
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 66
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 100
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 86
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 100
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 40
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 87
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 109
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 119
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 109
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 562
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 46
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 61
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 81
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 104
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 40
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 87
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 109
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 119
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 109
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 562
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 38
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 87
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 109
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 94
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 119
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 109
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 513
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 47
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 61
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 79
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 103
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 93
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      }
+    ]
+  }
+}

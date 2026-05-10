@@ -1,0 +1,17 @@
+{
+  "input": "data/generated/causalmembench_20.jsonl",
+  "num_records": 20,
+  "num_valid": 20,
+  "num_errors": 0,
+  "errors": [],
+  "task_family_counts": {
+    "spurious_semantic_trap": 3,
+    "poisoned_memory": 2,
+    "multi_hop_memory": 2,
+    "conflicting_memories": 2,
+    "context_specific_preference": 3,
+    "abstention": 2,
+    "procedural_memory": 3,
+    "preference_update": 3
+  }
+}

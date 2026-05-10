@@ -1,0 +1,63 @@
+seed: 42
+
+dataset:
+  size: 1000
+  split:
+    train: 0.2
+    dev: 0.2
+    test: 0.6
+  task_families:
+    - preference_update
+    - context_specific_preference
+    - procedural_memory
+    - spurious_semantic_trap
+    - conflicting_memories
+    - poisoned_memory
+    - multi_hop_memory
+    - abstention
+
+openai:
+  agent_model: gpt-4.1-mini
+  judge_model: gpt-4.1-mini
+  dataset_model: gpt-4.1-mini
+  embedding_model: text-embedding-3-small
+  temperature: 0.0
+  max_output_tokens: 600
+  use_api: false
+
+retrieval:
+  top_k: 5
+  hybrid:
+    alpha: 0.7
+    beta: 0.2
+    gamma: 0.1
+
+cmi:
+  utility_threshold: 0.0
+  stability_threshold: 0.0
+  use_perturbation: true
+  perturbation_types:
+    - negation
+    - scope_shift
+    - temporal_shift
+    - entity_swap
+  scorer: deterministic
+
+scoring:
+  deterministic_weight: 0.7
+  llm_judge_weight: 0.3
+
+experiment:
+  agents:
+    - no_memory
+    - full_history
+    - vector_memory
+    - summary_memory
+    - reflection_memory
+    - graph_memory
+    - cmi
+  max_examples: null
+  save_intermediate_outputs: true
+  resume: true
+  deterministic_only: true
+  skip_llm_judge: true

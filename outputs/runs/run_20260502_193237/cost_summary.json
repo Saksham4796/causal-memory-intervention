@@ -1,0 +1,3667 @@
+{
+  "num_predictions": 609,
+  "total_cost_usd": 0.0,
+  "total_tokens": 963819,
+  "average_cost_usd": 0.0,
+  "tracker": {
+    "total_cost_usd": 0.0,
+    "total_tokens": 963819,
+    "num_records": 609,
+    "records": [
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 646
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1566
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 877
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 882
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 907
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 879
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1491
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 678
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1932
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 902
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 911
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 924
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 902
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1542
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-41_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 642
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-41_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 11381
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-41_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 656
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-41_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 925
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-41_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 678
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-41_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 656
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-41_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1331
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 862
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1910
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1019
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1134
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1195
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 898
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1570
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 663
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1653
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 703
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 696
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 717
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 701
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1336
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-47_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 950
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-47_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 2505
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-47_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 991
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-47_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 990
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-47_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1007
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-47_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 991
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-47_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1549
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 761
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1458
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 751
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1168
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1165
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1143
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1800
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-49_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 592
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-49_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 15485
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-49_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 922
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-49_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 696
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-49_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 955
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-49_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 666
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-49_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1508
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-50_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 934
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-50_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 3188
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-50_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1054
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-50_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1076
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-50_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1076
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-50_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1054
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-50_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 1682
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 778
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1051
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 779
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 800
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 801
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 779
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1386
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 697
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1928
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1003
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 824
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1025
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1003
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1630
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-41_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 760
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-41_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 2566
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-41_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 926
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-41_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 934
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-41_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 948
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-41_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 926
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-41_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1538
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 706
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 14364
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 783
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 965
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 805
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 783
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1383
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-43_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1136
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-43_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 10234
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-43_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 857
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-43_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 867
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-43_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 876
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-43_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 860
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-43_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1729
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 834
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1725
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1206
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1219
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1235
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1206
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1936
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-47_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 668
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-47_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 2237
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-47_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 715
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-47_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 738
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-47_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 736
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-47_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 714
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-47_qa_0001",
+        "cost_usd": 0.0,
+        "total_tokens": 1387
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 776
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1507
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1006
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1011
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1034
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1009
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1713
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 582
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1821
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 707
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 694
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 723
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 707
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1361
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 739
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1387
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 919
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 931
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 952
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 919
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1644
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 806
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 21162
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1245
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1265
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1267
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1245
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1989
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 791
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1608
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 905
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 914
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 920
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 898
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1527
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-50_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1020
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-50_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 2390
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-50_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 912
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-50_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 910
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-50_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 919
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-50_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 903
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-50_qa_0002",
+        "cost_usd": 0.0,
+        "total_tokens": 1610
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 610
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1968
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 917
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 925
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 945
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 929
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1446
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 707
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 2864
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1176
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1164
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1199
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1186
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1830
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-41_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 702
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-41_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 3276
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-41_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1121
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-41_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1073
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-41_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1083
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-41_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 922
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-41_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1540
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 686
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1707
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1208
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1214
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1224
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1208
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1850
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-43_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1210
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-43_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 2042
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-43_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1161
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-43_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1042
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-43_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1182
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-43_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1206
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-43_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1992
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1024
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 23994
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1326
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1055
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1348
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1326
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 2168
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-47_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 718
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-47_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 3065
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-47_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 927
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-47_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1111
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-47_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1137
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-47_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1059
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-47_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1396
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 698
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1543
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 778
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 790
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 800
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 784
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1383
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-49_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 719
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-49_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1629
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-49_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 744
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-49_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 745
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-49_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 767
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-49_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 744
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-49_qa_0003",
+        "cost_usd": 0.0,
+        "total_tokens": 1335
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 608
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1581
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 730
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 735
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 965
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 900
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1269
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1135
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1772
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1206
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 727
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1211
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1191
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1918
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-41_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 774
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-41_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 3254
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-41_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 880
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-41_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 896
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-41_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 919
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-41_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 880
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-41_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1543
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1149
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 3127
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1159
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1347
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1181
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1159
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1970
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-43_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 958
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-43_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 22711
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-43_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1257
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-43_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1283
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-43_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1279
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-43_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1255
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-43_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1942
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 766
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 3519
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1218
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1104
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1115
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1218
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1626
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-47_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 618
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-47_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 3768
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-47_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 831
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-47_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 857
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-47_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 849
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-47_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 827
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-47_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1504
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 597
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1500
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 847
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 889
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 923
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 912
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1547
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-49_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 653
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-49_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1458
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-49_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 683
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-49_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 682
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-49_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 701
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-49_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 685
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-49_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1293
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-50_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 501
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-50_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 2709
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-50_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 991
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-50_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 746
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-50_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1020
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-50_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 994
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-50_qa_0004",
+        "cost_usd": 0.0,
+        "total_tokens": 1565
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 670
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 2051
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1173
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 895
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1201
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1173
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1800
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1201
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 2924
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 760
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1103
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 912
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 740
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1603
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-41_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 796
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-41_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 3187
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-41_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 907
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-41_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 901
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-41_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 929
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-41_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 907
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-41_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1536
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 703
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 2415
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1023
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1024
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1042
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 883
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1634
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-43_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 767
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-43_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 2637
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-43_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1002
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-43_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 879
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-43_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 941
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-43_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 925
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-43_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1758
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 857
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 4409
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 932
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 855
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 946
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 932
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1495
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-47_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 800
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-47_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 4981
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-47_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1193
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-47_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1092
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-47_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1095
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-47_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1184
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-47_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1761
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 631
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1407
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 856
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 868
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 762
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 856
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1334
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-49_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 572
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-49_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 2279
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-49_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 682
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-49_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 693
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-49_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 704
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-49_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 682
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-49_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1320
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-50_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 833
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-50_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 4978
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-50_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 944
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-50_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1195
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-50_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 966
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-50_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 944
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-50_qa_0005",
+        "cost_usd": 0.0,
+        "total_tokens": 1590
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 668
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 2141
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 851
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 853
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 865
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 849
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1485
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 842
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1661
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1080
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1084
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1105
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1090
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1733
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 697
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 2233
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 705
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 712
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 727
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 711
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1301
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-43_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 658
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-43_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 3294
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-43_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 970
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-43_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 835
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-43_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 853
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-43_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 970
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-43_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1569
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 771
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 2458
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 891
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 885
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 907
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 891
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1461
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-47_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 972
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-47_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 5163
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-47_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1144
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-47_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 998
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-47_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1037
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-47_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1144
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-47_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1628
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 724
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1631
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 927
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 695
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 885
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 688
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1531
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-49_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 679
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-49_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 2353
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-49_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 892
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-49_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 764
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-49_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 914
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-49_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 892
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-49_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1625
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-50_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 896
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-50_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 4026
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-50_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 828
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-50_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 999
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-50_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 855
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-50_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 833
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-50_qa_0006",
+        "cost_usd": 0.0,
+        "total_tokens": 1436
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 667
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 3283
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 936
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 710
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 958
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 936
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1511
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 684
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 2517
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1186
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1180
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 819
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1184
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1447
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-41_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 749
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-41_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 4860
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-41_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1154
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-41_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1151
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-41_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1176
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-41_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1160
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-41_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1770
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 853
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 2600
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1186
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1206
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1208
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1186
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1820
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 732
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 2498
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 742
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 750
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 763
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 742
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1430
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-47_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 638
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-47_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 4901
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-47_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1087
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-47_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1092
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-47_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1099
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-47_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1088
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-47_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1710
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 783
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1173
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 838
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 741
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 875
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 838
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1469
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-50_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 652
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-50_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 3866
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-50_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 732
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-50_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 783
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-50_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 770
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-50_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 732
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-50_qa_0007",
+        "cost_usd": 0.0,
+        "total_tokens": 1371
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 803
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 3427
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1205
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1085
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1239
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1208
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1886
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 713
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 2576
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 961
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 990
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 993
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 961
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1583
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-41_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 698
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-41_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 5317
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-41_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 841
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-41_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1111
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-41_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 854
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-41_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 849
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-41_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1759
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 645
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 2428
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 679
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 686
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 701
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 685
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1289
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-43_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 784
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-43_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 21102
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-43_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 740
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-43_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 752
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-43_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1156
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-43_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 931
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-43_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1268
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 777
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 2513
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 784
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 787
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 804
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 782
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1752
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-47_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 703
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-47_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 4950
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-47_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 918
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-47_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 918
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-47_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 934
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-47_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 918
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-47_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1283
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1002
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 12541
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 877
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1121
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1299
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 876
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1750
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-49_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 720
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-49_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 6710
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-49_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1047
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-49_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1075
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-49_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1078
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-49_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1049
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-49_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1581
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-50_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 704
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-50_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 3997
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-50_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1153
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-50_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1180
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-50_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1164
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-50_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1153
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-50_qa_0008",
+        "cost_usd": 0.0,
+        "total_tokens": 1801
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 905
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-26_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 3376
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-26_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1036
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-26_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1055
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-26_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1071
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-26_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1049
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-26_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1776
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-30_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 918
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-30_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 10957
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-30_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 890
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-30_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1060
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-30_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 838
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-30_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 679
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-30_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1759
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-41_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 613
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-41_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 5591
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-41_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 813
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-41_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 733
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-41_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 827
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-41_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 813
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-41_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1447
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-42_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 725
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-42_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 2551
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-42_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 834
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-42_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 878
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-42_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 856
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-42_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 834
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-42_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1494
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-43_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 721
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-43_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 24804
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-43_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1296
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-43_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1312
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-43_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1302
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-43_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1296
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-43_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 2098
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-44_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1119
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-44_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 23687
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-44_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1373
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-44_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1405
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-44_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1390
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-44_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1373
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-44_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 2169
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-48_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 748
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-48_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 2445
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-48_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 915
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-48_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 884
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-48_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 931
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-48_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 909
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-48_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1534
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-49_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 760
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-49_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 2397
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-49_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1088
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-49_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 888
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-49_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1104
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-49_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1088
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-49_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1758
+      },
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-50_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 951
+      },
+      {
+        "agent_name": "full_history",
+        "example_id": "conv-50_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 5459
+      },
+      {
+        "agent_name": "vector_memory",
+        "example_id": "conv-50_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1253
+      },
+      {
+        "agent_name": "summary_memory",
+        "example_id": "conv-50_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1249
+      },
+      {
+        "agent_name": "reflection_memory",
+        "example_id": "conv-50_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1253
+      },
+      {
+        "agent_name": "graph_memory",
+        "example_id": "conv-50_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 1253
+      },
+      {
+        "agent_name": "cmi",
+        "example_id": "conv-50_qa_0009",
+        "cost_usd": 0.0,
+        "total_tokens": 2005
+      }
+    ]
+  }
+}

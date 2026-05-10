@@ -1,0 +1,24 @@
+{
+  "num_records": 87,
+  "task_family_counts": {
+    "temporal_memory_qa": 46,
+    "inferential_memory_qa": 14,
+    "multi_evidence_memory_qa": 25,
+    "factual_memory_qa": 2
+  },
+  "quality_status_counts": {
+    "pass": 86,
+    "warning": 1
+  },
+  "memory_label_counts": {
+    "useful": 89,
+    "irrelevant": 348,
+    "harmful": 54
+  },
+  "total_past_sessions": 432,
+  "records_with_past_sessions": 87,
+  "total_memories": 491,
+  "fixed_memory_timestamps": 54,
+  "missing_history_count": 0,
+  "missing_history_example_ids": []
+}

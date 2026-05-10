@@ -1,0 +1,31 @@
+{
+  "num_examples": 24,
+  "task_family_counts": {
+    "procedural_memory": 3,
+    "preference_update": 3,
+    "poisoned_memory": 3,
+    "conflicting_memories": 3,
+    "multi_hop_memory": 3,
+    "abstention": 3,
+    "spurious_semantic_trap": 3,
+    "context_specific_preference": 3
+  },
+  "difficulty_counts": {
+    "hard": 9,
+    "medium": 9,
+    "easy": 6
+  },
+  "memory_label_counts": {
+    "useful": 24,
+    "irrelevant": 71,
+    "harmful": 25,
+    "context_dependent": 42,
+    "outdated": 6
+  },
+  "memory_bank_size_counts": {
+    "7": 24
+  },
+  "poisoned_example_count": 22,
+  "conflicting_example_count": 6,
+  "llm_paraphrased_count": 0
+}

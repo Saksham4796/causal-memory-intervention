@@ -1,0 +1,97 @@
+{
+  "input": "causal_locomo_final.jsonl",
+  "num_records": 16,
+  "num_valid": 4,
+  "num_errors": 12,
+  "errors": [
+    {
+      "index": 1,
+      "example_id": "conv-30_qa_0000",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 2,
+      "example_id": "conv-41_qa_0000",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 3,
+      "example_id": "conv-42_qa_0000",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 6,
+      "example_id": "conv-48_qa_0000",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 7,
+      "example_id": "conv-49_qa_0000",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 8,
+      "example_id": "conv-50_qa_0000",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 9,
+      "example_id": "conv-26_qa_0001",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 10,
+      "example_id": "conv-30_qa_0001",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 11,
+      "example_id": "conv-41_qa_0001",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 12,
+      "example_id": "conv-42_qa_0001",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 14,
+      "example_id": "conv-44_qa_0001",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    },
+    {
+      "index": 15,
+      "example_id": "conv-47_qa_0001",
+      "errors": [
+        "1 validation error for BenchmarkExample\nmemory_bank.5.timestamp\n  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/int_type"
+      ]
+    }
+  ],
+  "task_family_counts": {
+    "temporal_memory_qa": 2,
+    "inferential_memory_qa": 1,
+    "multi_evidence_memory_qa": 1
+  }
+}

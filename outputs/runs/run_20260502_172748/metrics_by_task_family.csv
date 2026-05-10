@@ -1,0 +1,2 @@
+agent_name,task_family,task_score,deterministic_score,task_success_rate,useful_memory_precision,useful_memory_recall,useful_memory_f1,harmful_memory_rejection_rate,irrelevant_memory_rejection_rate,outdated_memory_rejection_rate,poisoned_memory_adoption_rate,context_dependent_memory_accuracy,num_retrieved_memories,num_selected_memories,input_tokens,output_tokens,total_tokens,cost_usd,latency_seconds
+no_memory,temporal_memory_qa,0.5,0.5,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,25.0,11.0,36.0,0.0,0.0002009868621826172

@@ -1,0 +1,2 @@
+agent_name,useful_memory_precision,useful_memory_recall,useful_memory_f1,harmful_memory_rejection_rate,irrelevant_memory_rejection_rate,outdated_memory_rejection_rate,poisoned_memory_adoption_rate,context_dependent_memory_accuracy
+no_memory,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0

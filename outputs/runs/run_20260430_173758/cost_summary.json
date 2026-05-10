@@ -1,0 +1,12 @@
+{
+  "num_predictions": 0,
+  "total_cost_usd": 0,
+  "total_tokens": 0,
+  "average_cost_usd": 0.0,
+  "tracker": {
+    "total_cost_usd": 0.0,
+    "total_tokens": 0,
+    "num_records": 0,
+    "records": []
+  }
+}

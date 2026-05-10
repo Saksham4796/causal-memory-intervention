@@ -1,0 +1,12 @@
+{
+  "input": "causal_locomo_final_runner.jsonl",
+  "num_records": 16,
+  "num_valid": 16,
+  "num_errors": 0,
+  "errors": [],
+  "task_family_counts": {
+    "temporal_memory_qa": 11,
+    "inferential_memory_qa": 2,
+    "multi_evidence_memory_qa": 3
+  }
+}

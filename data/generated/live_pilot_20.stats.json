@@ -1,0 +1,25 @@
+{
+  "num_examples": 20,
+  "task_family_counts": {
+    "spurious_semantic_trap": 3,
+    "poisoned_memory": 2,
+    "multi_hop_memory": 2,
+    "conflicting_memories": 2,
+    "context_specific_preference": 3,
+    "abstention": 2,
+    "procedural_memory": 3,
+    "preference_update": 3
+  },
+  "difficulty_counts": {
+    "hard": 8,
+    "medium": 7,
+    "easy": 5
+  },
+  "memory_label_counts": {
+    "irrelevant": 14,
+    "useful": 20,
+    "harmful": 18,
+    "outdated": 5,
+    "context_dependent": 3
+  }
+}

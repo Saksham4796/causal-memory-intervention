@@ -1,0 +1,733 @@
+{
+  "num_predictions": 120,
+  "total_cost_usd": 0.0,
+  "total_tokens": 49021,
+  "average_cost_usd": 0.0,
+  "tracker": {
+    "total_cost_usd": 0.0,
+    "total_tokens": 49021,
+    "num_records": 120,
+    "records": [
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 303
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 537
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "spurious_000019",
+        "cost_usd": 0.0,
+        "total_tokens": 122
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 530
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 507
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 312
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 530
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 530
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "poisoned_000005",
+        "cost_usd": 0.0,
+        "total_tokens": 112
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 457
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 457
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 263
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 484
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 457
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "multihop_000014",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 505
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 484
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 296
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 505
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 505
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "conflict_000004",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 272
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 491
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "context_pref_000009",
+        "cost_usd": 0.0,
+        "total_tokens": 99
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 530
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 507
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 312
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 530
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 530
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "poisoned_000013",
+        "cost_usd": 0.0,
+        "total_tokens": 112
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 308
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "abstention_000015",
+        "cost_usd": 0.0,
+        "total_tokens": 103
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 504
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 308
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "procedural_000018",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 445
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 445
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 263
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 472
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 445
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "multihop_000006",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 504
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 483
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 296
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 504
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 504
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "conflict_000012",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 272
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 491
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "context_pref_000017",
+        "cost_usd": 0.0,
+        "total_tokens": 99
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 504
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 308
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "procedural_000010",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 272
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 491
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 475
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "context_pref_000001",
+        "cost_usd": 0.0,
+        "total_tokens": 99
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 303
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 537
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "spurious_000011",
+        "cost_usd": 0.0,
+        "total_tokens": 122
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 504
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 308
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 525
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "procedural_000002",
+        "cost_usd": 0.0,
+        "total_tokens": 110
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 562
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 541
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 329
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 562
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 562
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "pref_update_000016",
+        "cost_usd": 0.0,
+        "total_tokens": 112
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 308
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 529
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "abstention_000007",
+        "cost_usd": 0.0,
+        "total_tokens": 103
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 562
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 541
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 329
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 562
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 562
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "pref_update_000008",
+        "cost_usd": 0.0,
+        "total_tokens": 112
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 513
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 513
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 292
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 526
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 513
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "pref_update_000000",
+        "cost_usd": 0.0,
+        "total_tokens": 100
+      },
+      {
+        "agent_name": "cmi_utility_only",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_stability_only",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_no_perturb",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 303
+      },
+      {
+        "agent_name": "cmi_oracle_scorer",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 537
+      },
+      {
+        "agent_name": "cmi_deterministic_scorer",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 520
+      },
+      {
+        "agent_name": "cmi_batch",
+        "example_id": "spurious_000003",
+        "cost_usd": 0.0,
+        "total_tokens": 122
+      }
+    ]
+  }
+}

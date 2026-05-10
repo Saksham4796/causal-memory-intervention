@@ -1,0 +1,38 @@
+2026-04-30 17:37:58,118 INFO run_experiment: Starting run in outputs/runs/run_20260430_173758
+2026-04-30 17:38:03,430 ERROR run_experiment: Failed example=spurious_000019 agent=no_memory
+Traceback (most recent call last):
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/saksham/Documents/New project/src/api/openai_client.py", line 123, in _complete_api
+    response = self._client.chat.completions.create(**kwargs)
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/openai/_utils/_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/openai/resources/chat/completions/completions.py", line 1211, in create
+    return self._post(
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/openai/_base_client.py", line 1314, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/openai/_base_client.py", line 1087, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.PermissionDeniedError: Error code: 403 - {'error': {'message': 'user(53) quota is not enough (request id: 20260501053803389592733k6iYQAoc)', 'type': 'new_api_error', 'param': '', 'code': 'insufficient_user_quota'}}
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/saksham/Documents/New project/src/experiments/run_experiment.py", line 120, in run_experiment
+    output = agent.answer(example)
+  File "/Users/saksham/Documents/New project/src/agents/no_memory_agent.py", line 11, in answer
+    result = self._answer_with_memories(example, [], prompt_kind="no_memory")
+  File "/Users/saksham/Documents/New project/src/agents/base_agent.py", line 68, in _answer_with_memories
+    result = self.client.complete(
+  File "/Users/saksham/Documents/New project/src/api/openai_client.py", line 100, in complete
+    result = self._complete_api(payload)
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/Users/saksham/Documents/New project/causalmem/lib/python3.9/site-packages/tenacity/__init__.py", line 421, in exc_check
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x1158e7ee0 state=finished raised PermissionDeniedError>]
+2026-04-30 17:38:03,462 INFO run_experiment: Completed run with 0 predictions and 1 failures

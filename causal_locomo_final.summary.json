@@ -1,0 +1,22 @@
+{
+  "num_records": 87,
+  "quality_status_counts": {
+    "pass": 86,
+    "warning": 1
+  },
+  "task_family_counts": {
+    "temporal_memory_qa": 46,
+    "inferential_memory_qa": 14,
+    "multi_evidence_memory_qa": 25,
+    "factual_memory_qa": 2
+  },
+  "contains_poisoned_memory": 54,
+  "num_gold_memories": 89,
+  "num_bad_memories": 402,
+  "num_harmful_memories": 54,
+  "num_records_with_raw_past_sessions": 0,
+  "num_records_with_raw_provenance_turns": 0,
+  "input_records": 100,
+  "dropped_records": 13,
+  "output_records": 87
+}

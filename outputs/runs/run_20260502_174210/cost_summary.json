@@ -1,0 +1,19 @@
+{
+  "num_predictions": 1,
+  "total_cost_usd": 0.0,
+  "total_tokens": 36,
+  "average_cost_usd": 0.0,
+  "tracker": {
+    "total_cost_usd": 0.0,
+    "total_tokens": 36,
+    "num_records": 1,
+    "records": [
+      {
+        "agent_name": "no_memory",
+        "example_id": "conv-26_qa_0000",
+        "cost_usd": 0.0,
+        "total_tokens": 36
+      }
+    ]
+  }
+}
